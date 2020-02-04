@@ -4,9 +4,6 @@ namespace App\Exceptions;
 
 use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
-//use Tymon\JWTAuth\Facades\JWTAuth;
-//use Symfony\Component\HttpFoundation\Response;
-//use Facade\FlareClient\Http\Response;
 
 class Handler extends ExceptionHandler
 {
